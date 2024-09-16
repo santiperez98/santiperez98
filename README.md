@@ -1,40 +1,50 @@
-👋 #¡Hola! Soy Santiago Perez
-🚀 Sobre mí
-¡Hola! Soy un desarrollador web apasionado por la tecnología y el diseño de experiencias digitales impactantes. Desde siempre me ha fascinado cómo las herramientas tecnológicas pueden transformar ideas en soluciones reales, ayudando a las personas y las empresas a lograr sus objetivos.
+# 👋 ¡Hola! Soy **Santiago Perez**
 
-🌱 Pasiones: Me encanta aprender nuevas tecnologías, explorar soluciones creativas y aplicar el poder de la programación para resolver problemas complejos. La combinación de desarrollo web y gestión de comunidades digitales me permite conectar lo técnico con lo humano.
+## 🚀 Sobre mí
 
-🎯 Objetivo: Mi objetivo es crear productos digitales eficientes y funcionales que no solo sean visualmente atractivos, sino que también brinden una experiencia de usuario fluida y accesible.
+> **Apasionado por el desarrollo web y la creación de experiencias digitales**  
+> Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas complejos.
 
-💼 Background
-Tengo experiencia trabajando en proyectos de desarrollo web full-stack, con una sólida formación en lenguajes de programación modernos y metodologías ágiles. Además, ofrezco servicios de Community Manager, gestionando y optimizando la presencia en línea de diversas marcas.
+Soy un **desarrollador full-stack** con experiencia en construir aplicaciones web y manejar la **gestión de comunidades online**.
 
-Mi camino profesional me ha llevado a trabajar en diversas áreas, desde el diseño y desarrollo de aplicaciones web, hasta la creación de estrategias de contenido para redes sociales.
+- 🔥 **Pasiones**:  
+  - Desarrollo de aplicaciones web intuitivas y rápidas.  
+  - Aprender nuevas tecnologías y aplicarlas en proyectos reales.  
+  - Ayudar a negocios y comunidades a crecer en el entorno digital.
 
-🛠 Stack Tecnológico
-Frontend:
+---
 
-React.js
-Redux
-JavaScript (ES6+)
-HTML5
-CSS3 / Sass
+## 💼 Background
 
-Backend:
+- 🎓 Formación en desarrollo web y gestión de comunidades.  
+- 💡 Experiencia en proyectos con **React**, **Node.js**, y bases de datos **PostgreSQL**.  
+- 🤝 Colaboración en equipos usando **metodologías ágiles**.
 
-Node.js
-Express.js
-Sequelize
-PostgreSQL
-RESTful APIs
-Herramientas y otras tecnologías:
+---
 
-Git & GitHub
-Docker
-Agile/Scrum
-Figma (diseño y prototipado)
+## 🛠 **Stack Tecnológico**
 
-📫 Contacto
-Email: santip19982022@gmail.com
-LinkedIn: [linkedin.com/in/tuperfil](https://www.linkedin.com/in/santiago-perez-0248b622a/)
-Portafolio: santiperez.com
+### **Frontend**  
+- React  
+- Redux  
+- HTML5, CSS3 (Sass)  
+- JavaScript (ES6+)
+
+### **Backend**  
+- Node.js  
+- Express  
+- PostgreSQL  
+- Sequelize
+
+### **Otras tecnologías**  
+- Git & GitHub  
+- Docker  
+- Figma (diseño de UI/UX)
+
+---
+
+## 📫 **Contacto**
+
+- **Email**: santip19982022@gmail.com
+- **LinkedIn**: [[linkedin.com/in/tuperfil](https://www.linkedin.com/in/tuperfil)](https://www.linkedin.com/in/santiago-perez-0248b622a/)  
+- **Portafolio**: santiperez.com
