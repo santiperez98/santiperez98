@@ -37,8 +37,7 @@ Soy un **desarrollador full-stack** con experiencia en construir aplicaciones we
 - Sequelize
 
 ### **Otras tecnologías**  
-- Git & GitHub  
-- Docker  
+- Git & GitHub    
 - Figma (diseño de UI/UX)
 
 ---
